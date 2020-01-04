@@ -1,9 +1,6 @@
 {
-  "name": "gatsby-starter-default",
-  "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "name": "gatsby-tailwind",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^2.18.12",
     "gatsby-image": "^2.2.34",
@@ -19,10 +16,21 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "gatsby-plugin-postcss": "^2.1.18",
+    "prettier": "^1.19.1",
+    "tailwindcss": "^1.1.4"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "tailwindcss"
   ],
   "license": "MIT",
   "scripts": {
@@ -36,9 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/phartenfeller/gatsby-tailwind"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  }
+    "url": "https://github.com/phartenfeller/gatsby-tailwind/issues"
+  },
+  "homepage": "https://github.com/phartenfeller/gatsby-tailwind"
 }
