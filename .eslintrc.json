@@ -17,7 +17,7 @@
     "react/jsx-one-expression-per-line": 0,
     "radix": 0
   },
-  "plugins": ["prettier", "react-hooks"],
+  "plugins": ["prettier", "react-hooks", "jsx-a11y"],
   "settings": {
     "react": {
       "pragma": "React",
