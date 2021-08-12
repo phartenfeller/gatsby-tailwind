@@ -3,7 +3,6 @@ import React from 'react';
 import ImageGetter from '../components/ImageGetter';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
-import '../styles/tailwind.css';
 
 const IndexPage = () => (
   <Layout>
