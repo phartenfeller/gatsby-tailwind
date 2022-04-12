@@ -2,7 +2,7 @@
   "name": "gatsby-tailwind",
   "version": "0.1.0",
   "dependencies": {
-    "gatsby": "^4.11.1",
+    "gatsby": "^4.11.3",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-image": "^2.11.1",
     "gatsby-plugin-manifest": "^4.11.1",
@@ -18,10 +18,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
-    "eslint": "^8.12.0",
+    "eslint": "^8.13.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.29.4",
